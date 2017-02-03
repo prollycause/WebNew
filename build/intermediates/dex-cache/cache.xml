@@ -21,6 +21,69 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_5b7ad659b2d65d75c614288878da650309274d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_23cec704ac7059ce764f8b37d6db49c257f24414.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f44461eea9b868903ac0834735b40f13f990bbcf">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_01d9d12c5266f677904a823b7d120a55611c1ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_7861f461a43766df3d78633da24e4e0310b7eb54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_5b7ad659b2d65d75c614288878da650309274d55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_7861f461a43766df3d78633da24e4e0310b7eb54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_4bfe82c16aebe56e9431b258fd7e997826614168.jar" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -56,6 +119,33 @@
         <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_026b3b12fac5796776e77512c5dc50f271ef5129\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_026b3b12fac5796776e77512c5dc50f271ef5129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_b5d352faf6c12f8b318fe4db865db394da9ef62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_75b5729ecbddaca8d950af03a48e9478ca4e0643.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\james\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
         jumboMode="true"
@@ -70,17 +160,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b15b4895ede74125c8949cea730d30968da798d0">
+        sha1="146234b112e42ec2abdac30257249c92d260d64d">
         <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_039e9d9d0281748007c2b239bd9e5fa1e9ecdcbb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_5b7ad659b2d65d75c614288878da650309274d55\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -92,22 +173,31 @@
         <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_75b5729ecbddaca8d950af03a48e9478ca4e0643\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\shared\dev\android\WebNew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="f44461eea9b868903ac0834735b40f13f990bbcf">
-        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_01d9d12c5266f677904a823b7d120a55611c1ef4\classes.dex" />
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_78eb00d27b2ee2c253fa5cdba3163f4e8565b564.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_7861f461a43766df3d78633da24e4e0310b7eb54\classes.dex" />
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_f2e43494f8076630939fc07c9b91a89d57002d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\shared\dev\android\WebNew\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\shared\dev\android\WebNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_f58b69d6119c6ee8e935df0e03f02af00a2a12da.jar" />
     </item>
 
 </items>
